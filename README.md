@@ -3,6 +3,7 @@
 
 Put this in ~/.vimrc
 
+![using vim for work](http://g.recordit.co/JEqAeE9Uli.gif)
 ```bash
 let skip_defaults_vim=1
 let g:javascript_plugin_jsdoc = 1
